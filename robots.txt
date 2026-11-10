@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cheyennehvacco.com/sitemap.xml
